@@ -1,1 +1,9 @@
 node_modules
+.next
+.env
+.env.*
+.DS_Store
+pnpm-store
+.vercel
+logs
+data/telemetry.json
