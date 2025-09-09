@@ -1,0 +1,7 @@
+{
+  "/settings/page": "app/settings/page.js",
+  "/events/page": "app/events/page.js",
+  "/lost-found/page": "app/lost-found/page.js",
+  "/pilgrim-info/[slug]/page": "app/pilgrim-info/[slug]/page.js",
+  "/about/page": "app/about/page.js"
+}

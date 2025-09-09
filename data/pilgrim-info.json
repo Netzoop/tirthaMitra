@@ -1,0 +1,58 @@
+{
+  "cultural-immersion": {
+    "title": "Cultural Immersion",
+    "intro": "Explore the history, rituals, and spiritual significance of the Simhastha Kumbh at Ujjain.",
+    "sections": [
+      { "heading": "Origins of Simhastha", "body": "Simhastha is observed when Jupiter enters Leo (Simha). Ujjain's Shipra River becomes the confluence of faith and liberation." },
+      { "heading": "Akhadas & Processions", "body": "Monastic orders including Juna, Niranjani, and others lead Shahi Snan processions accompanied by chants and music." },
+      { "heading": "Darshan Etiquette", "body": "Maintain queue discipline, remove footwear near ghats and temples, and follow volunteer guidance." }
+    ]
+  },
+  "health-hygiene": {
+    "title": "Health & Hygiene",
+    "intro": "Practical tips to stay healthy and safe during the mela.",
+    "sections": [
+      { "heading": "Hydration", "body": "Carry a refillable bottle and drink purified water at regular intervals." },
+      { "heading": "Sanitation", "body": "Use designated toilets and handwashing stations. Keep sanitizer handy." },
+      { "heading": "Medical Help", "body": "Locate nearest first‑aid kiosks on the map; in emergencies dial local helplines." }
+    ]
+  },
+  "eco-awareness": {
+    "title": "Eco‑Awareness",
+    "intro": "Adopt green practices to keep the Shipra clean and the mela zero‑waste.",
+    "sections": [
+      { "heading": "Waste Segregation", "body": "Use dry/wet bins. Avoid single‑use plastics." },
+      { "heading": "Responsible Bathing", "body": "Do not use soaps or detergents in the river; follow eco‑guidelines." },
+      { "heading": "Public Transport", "body": "Prefer shuttles and carpooling to reduce congestion and emissions." }
+    ]
+  },
+  "food-water": {
+    "title": "Food & Water",
+    "intro": "Find safe food options and water points near you.",
+    "sections": [
+      { "heading": "Clean Eateries", "body": "Look for certified stalls with hygiene ratings and visible gloves/caps." },
+      { "heading": "Prasad & Langar", "body": "Many akhadas offer community meals. Respect serving protocols and waste segregation." },
+      { "heading": "Allergies & Diet", "body": "Check for nut/dairy indicators; carry necessary medication if required." }
+    ]
+  },
+  "transport-routes": {
+    "title": "Transport & Routes",
+    "intro": "Navigate shuttles, pedestrian corridors, and crowd‑aware routes.",
+    "sections": [
+      { "heading": "Shuttle Hubs", "body": "Board from marked hubs to reach Ram Ghat and other key points." },
+      { "heading": "Peak Timings", "body": "Expect diversions during Shahi Snan. Follow digital signages and volunteers." },
+      { "heading": "Accessibility", "body": "Dedicated lanes for elderly and differently‑abled at major ghats." }
+    ]
+  },
+  "ar-vr-tours": {
+    "title": "AR/VR Tours",
+    "intro": "Experience immersive narratives of Ujjain’s sacred heritage.",
+    "sections": [
+      { "heading": "360° Ghats", "body": "Virtual walkthroughs of Ram Ghat and nearby temples." },
+      { "heading": "Mythology Capsules", "body": "Short AR overlays retelling legends of Kumbh and Shipra." },
+      { "heading": "How to Access", "body": "Use supported smartphones or kiosks; headphones recommended." }
+    ]
+  }
+}
+
+
